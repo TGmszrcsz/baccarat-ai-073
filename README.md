@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：界面文档
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 072 篇 - 百家乐Ai预测分析工具：图例与颜色说明应保持前后一致](https://github.com/TGmszrcsz/baccarat-ai-072) ｜ [下一篇：第 074 篇 - 百家乐Ai预测分析工具：图片直链与替代文字分别承担什么作用](https://github.com/TGmszrcsz/baccarat-ai-074)
+
+<!-- article-chain:end -->
+
 宽表格缩到手机屏幕后，局号与状态无法同时看清。本篇围绕“移动端阅读时优先保住关键字段”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
